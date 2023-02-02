@@ -1,0 +1,56 @@
+body{
+    background-color:powderblue;
+    text-align: center;
+   
+
+}
+h1{
+    font-family: 'Freehand', cursive;
+    font-size: 90px;
+    margin-top: 0px;
+    margin-bottom:0px;
+}
+.h1{
+    font-size: 30px;
+}
+h2{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+.buttom-cloud{
+    position: absolute;
+    left: 25%;
+}
+.top-container{
+    padding-top: 20px;
+    position: relative;
+}
+.profile{
+    margin-top: 5%;
+    margin-bottom: 5%;
+   
+}
+.profile_img{
+    
+    width: 20%;
+}
+.skill_img{
+    width:20%;
+
+}
+p{
+    font-size: large;
+}
+h3{ font-size: 30px;
+    font-weight: bold;
+}
+.get_in_img{
+    width: 20%;
+}
